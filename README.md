@@ -1,6 +1,6 @@
 # collage — the rect-first compositor
 
-> Nothing is implemented yet. Work order: [MANIFEST.md](MANIFEST.md). Laws: [collage-preferences.md](collage-preferences.md). Checked out at `graphvex/compositor/`; the code keeps the `Compositor*` prefix.
+> Nothing is implemented yet. Work order: `_notes/ideas/collage/MANIFEST.md`. Laws: [collage-preferences.md](collage-preferences.md). Checked out at `graphvex/compositor/`; the code keeps the `Compositor*` prefix.
 
 collage composes everything as rectangles — widgets, glyph runs, images, vector shapes and meld scenes — into the window's single seam canvas through graphvex's `Swapchain`.
 
